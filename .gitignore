@@ -1,4 +1,5 @@
 /node_modules
 test.md
 MIT.md
-
+package-lock.json
+package.json
