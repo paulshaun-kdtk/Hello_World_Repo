@@ -111,7 +111,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](file:///C:/Users/user/Documents/Lessons/Microverse/Hello_World_Repo/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
